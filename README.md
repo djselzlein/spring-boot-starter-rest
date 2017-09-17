@@ -4,6 +4,6 @@ This project is a starter for simple Rest apps.
 
 It contains basic definitions for Controllers and Services.
 
-== Contribuition
+## Contribuition
 
 Feel free to fork and contribute.
